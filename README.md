@@ -387,11 +387,10 @@ in the Software without restriction...
 
 **Alejandro De Mendoza**
 
-- 🎓 Estudiante de Procesadores de Lenguajes
 - 🏛️ Fundación Universitaria Internacional de La Rioja
-- 📧 Email: [tu-email@ejemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/tuusuario]
-- 🐙 GitHub: [@tuusuario](https://github.com/tuusuario)
+- 📧 Email: alejandro.mendoza.techengineer@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-de-mendoza-tovar-684318347/
+- 🐙 GitHub: [@tuusuario](https://github.com/AlejoTechEngineer)
 
 ---
 
