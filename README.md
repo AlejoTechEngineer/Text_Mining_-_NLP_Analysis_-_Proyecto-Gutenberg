@@ -391,15 +391,6 @@ in the Software without restriction...
 
 ---
 
-## 📊 Estadísticas del Proyecto
-
-![GitHub repo size](https://img.shields.io/github/repo-size/tuusuario/text-mining-gutenberg?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/tuusuario/text-mining-gutenberg?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/tuusuario/text-mining-gutenberg?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/text-mining-gutenberg?style=flat-square)
-
----
-
 ## ⭐ Show Your Support
 
 Si este proyecto te fue útil, ¡dale una ⭐ en GitHub!
