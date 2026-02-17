@@ -1,4 +1,4 @@
-<h1 align="center"># 📚 Text Mining & NLP Analysis - Proyecto Gutenberg
+# 📚 Text Mining & NLP Analysis - Proyecto Gutenberg
 
 <div align="center">
 
