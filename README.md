@@ -285,19 +285,6 @@ text-mining-gutenberg/
 
 ---
 
-## 🎨 Visualizaciones
-
-### Ejemplo: Gráfico de Frecuencias
-![Frecuencias](results/graficos/frecuencias_por_libro.png)
-
-### Ejemplo: Nubes de Palabras
-![Word Clouds](results/graficos/wordclouds_4libros.png)
-
-### Ejemplo: TF-IDF Comparativo
-![TF-IDF](results/graficos/tfidf_por_libro.png)
-
----
-
 ## 🔑 Hallazgos Clave
 
 ### 🎯 Conclusiones Principales
