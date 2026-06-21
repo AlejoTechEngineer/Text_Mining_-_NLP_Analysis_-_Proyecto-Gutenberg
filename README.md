@@ -27,6 +27,7 @@
 ## 📖 Índice
 
 - [Descripción General](#-descripción-general)
+- [Arquitectura](#arquitectura)
 - [Obras Analizadas](#-obras-analizadas)
 - [Tecnologías y Librerías](#️-tecnologías-y-librerías)
 - [Análisis Realizado](#-análisis-realizado)
@@ -41,23 +42,6 @@
 - [Contacto](#-contacto)
 
 ---
-
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Proyecto Gutenberg API] --> B[gutenbergr - Descarga de 4 obras clasicas]
-    B --> C[Dracula ID 345 - 15467 lineas]
-    B --> D[Frankenstein ID 84 - 7357 lineas]
-    B --> E[The Time Machine ID 35 - 3174 lineas]
-    B --> F[The War of the Worlds ID 36 - 6372 lineas]
-    C & D & E & F --> G[laboratorio1.R - Pipeline NLP]
-    G --> H[tidytext / tm - Tokenizacion / Stopwords removal]
-    H --> I[Bigramas y co-ocurrencias]
-    H --> J[Calculo TF-IDF - Terminos distintivos por obra]
-    I & J --> K[ggplot2 - Graficos de frecuencias]
-    I & J --> L[wordcloud - Nubes de palabras por obra]
-```
 
 ## 🎯 Descripción General
 
@@ -80,6 +64,23 @@ Este proyecto implementa un **pipeline completo de minería de texto y procesami
 5. Identificar patrones léxicos y asociaciones semánticas
 
 ---
+
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Proyecto Gutenberg API] --> B[gutenbergr - Descarga de 4 obras clasicas]
+    B --> C[Dracula ID 345 - 15467 lineas]
+    B --> D[Frankenstein ID 84 - 7357 lineas]
+    B --> E[The Time Machine ID 35 - 3174 lineas]
+    B --> F[The War of the Worlds ID 36 - 6372 lineas]
+    C & D & E & F --> G[laboratorio1.R - Pipeline NLP]
+    G --> H[tidytext / tm - Tokenizacion / Stopwords removal]
+    H --> I[Bigramas y co-ocurrencias]
+    H --> J[Calculo TF-IDF - Terminos distintivos por obra]
+    I & J --> K[ggplot2 - Graficos de frecuencias]
+    I & J --> L[wordcloud - Nubes de palabras por obra]
+```
 
 ## 📚 Obras Analizadas
 
